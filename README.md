@@ -124,9 +124,13 @@ need to experiment with new development and funding models.
 What can I do if I work in…
 
 [AI Research](#AIResearch)
+
 [AI Development](#AIDevelopment)
+
 [AI Policy](#AIPolicy)
+
 [Civil Society](#CivilSociety)
+
 [Open Source](#OpenSource)
 
 <ul>
