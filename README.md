@@ -124,6 +124,10 @@ need to experiment with new development and funding models.
 What can I do if I work in…
 
 [AI Research](#AIResearch)
+[AI Development](#AIDevelopment)
+[AI Policy](#AIPolicy)
+[Civil Society](#CivilSociety)
+[Open Source](#OpenSource)
 
 <ul>
 
@@ -151,6 +155,7 @@ models. Engage people from different domain areas (democratic
 innovation, open source development, etc.) and geographies to apply
 these ideas in practice.</li>
 
+<a name="AIDevelopment"> </a>
 ### AI Development
 <li> Amplify internal teams already doing research on democratic AI
 research. Our Collective Constitutional AI (CCAI) project with
@@ -180,6 +185,7 @@ example is our work with OpenAI (see section 2, especially
 <li> Look at alternative governance mechanisms within your organization
 and supply chains. (see section 6)</li>
 
+<a name="AIPolicy"> </a>
 ### Policy, Public Investment, and Regulation
 
 <li> Harness collective intelligence systems to assist with monitoring
@@ -200,6 +206,7 @@ engagement from the start, including in the allocation of resources
 (compute, data, etc.) and in public sector generative AI rollout
 decisions. (see section 2 and section 6)</li>
 
+<a name="CivilSociety"> </a>
 ### Civil Society
 <li>Develop and establish new models for data governance. This
 includes ideas like data sovereignty experiments or data cooperatives.
@@ -219,6 +226,7 @@ Explore economic models for public interest approaches to
 development, deployment, post-deployment, and funding e.g.
 cooperatives, crowd-funding, and more. (see section 6)</li>
 
+<a name="OpenSource"> </a>
 ### Open-Source
 <li> Actively connect with the democratic innovation space to create
 shared expertise, recognizing that the democratization of access
