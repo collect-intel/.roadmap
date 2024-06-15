@@ -42,8 +42,8 @@ This list is by no means exhaustive. Instead, in the spirit of democratic
 collaboration, we thought it was important to have a point of view and stake
 out a perspective where others may disagree.
 
-1. Our capacity for collective intelligence begins to keep pace with
-progress in artificial intelligence. We use AI to improve our systems
+<b>1. Our capacity for collective intelligence begins to keep pace with
+progress in artificial intelligence.</b> We use AI to improve our systems
 for deliberation, translation, facilitation, and preference elicitation; We
 expand this to improve interactions within and between institutions, as
 well as between institutions and individuals.
